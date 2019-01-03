@@ -1,0 +1,1 @@
+create table produto (id_produto int not null, nome varchar(30), preco double , primary key (id_produto));sistemaproduto produto
